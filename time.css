@@ -1,0 +1,51 @@
+body{
+    background: #4f4e4e;
+}
+table{
+    box-shadow:  0 0 10px #00000040;
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 1.2em;
+    text-align: center;
+    height: 400px;
+}
+.tableContiner{
+    margin-top: 20px;
+}
+.timeConatiner{
+    margin-top: 20px;
+}
+th{
+    color: greenyellow;
+    height: 50px;
+}
+.header{
+    color: #EEEEEE;
+    font-size: 40px;
+}
+td{
+    color: greenyellow;
+}
+
+.datetime{
+    margin: 0 auto;
+    font-size: 16px;
+    padding: 1px;
+    text-align: center;
+    color: white;
+    /* background-color: #444; */
+    box-shadow: 0 0 10px #00000040;
+    border-radius: 4px;
+    /* border-right: 10px #009578 solid; */
+    width: 400px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+}
+.time{
+    font-size: 3em;
+    color: #00ffcc;
+}
+.date{
+    margin-top: 12px;
+    font-size: 1.75em;
+}
